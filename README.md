@@ -1,4 +1,5 @@
 # CS305
+Derek Nill
 
 <p>
   <b>Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?</b><br>
